@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yuvallavi/Documents/Repositories/Gloomhaven-Bounties/Gloomhaven-Bounties/Gloomhaven-Bounties.csproj": {}
+    "/Users/yuvallavi/Documents/Repositories/Gloomhaven-Bounties/Gloomhaven-Bounties.csproj": {}
   },
   "projects": {
-    "/Users/yuvallavi/Documents/Repositories/Gloomhaven-Bounties/Gloomhaven-Bounties/Gloomhaven-Bounties.csproj": {
+    "/Users/yuvallavi/Documents/Repositories/Gloomhaven-Bounties/Gloomhaven-Bounties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yuvallavi/Documents/Repositories/Gloomhaven-Bounties/Gloomhaven-Bounties/Gloomhaven-Bounties.csproj",
+        "projectUniqueName": "/Users/yuvallavi/Documents/Repositories/Gloomhaven-Bounties/Gloomhaven-Bounties.csproj",
         "projectName": "Gloomhaven-Bounties",
-        "projectPath": "/Users/yuvallavi/Documents/Repositories/Gloomhaven-Bounties/Gloomhaven-Bounties/Gloomhaven-Bounties.csproj",
+        "projectPath": "/Users/yuvallavi/Documents/Repositories/Gloomhaven-Bounties/Gloomhaven-Bounties.csproj",
         "packagesPath": "/Users/yuvallavi/.nuget/packages/",
-        "outputPath": "/Users/yuvallavi/Documents/Repositories/Gloomhaven-Bounties/Gloomhaven-Bounties/obj/",
+        "outputPath": "/Users/yuvallavi/Documents/Repositories/Gloomhaven-Bounties/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yuvallavi/.config/NuGet/NuGet.Config"

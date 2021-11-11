@@ -1,4 +1,20 @@
 ﻿<Properties StartupConfiguration="{F941BCEA-95F9-4A85-94DA-2C006EA464F8}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gloomhaven-Bounties" expanded="True">
+            <Node name="Gloomhaven-Bounties" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Gloomhaven-Bounties FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Gloomhaven-Bounties PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>
